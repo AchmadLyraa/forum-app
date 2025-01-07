@@ -25,7 +25,7 @@ function LoginPage() {
 
           <article className="login-page__main">
             <h2 className="text-center mb-4">
-              See <strong>The World</strong>, <br />
+              See <strong>The Ideas</strong>, <br />
               Through Forum App.
             </h2>
 
